@@ -250,12 +250,12 @@ To set up the project locally, follow these steps:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/Honpg/Web-search-enginee.git
+git clone https://github.com/kiwihner/Search-Engine-Project.git
 ```
 
 ### Navigate to the project directory:
 ```bash
-cd Web-search-enginee
+cd Search-Engine-Project
 ```
 
 ### Install the required dependencies:
